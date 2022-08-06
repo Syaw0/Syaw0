@@ -19,11 +19,11 @@ I love the entire process of developing creative websites. I love the Linux and 
 
 ## 🔭 I'm currently working on
 
-- News App
+- shiny project
 
 ## 🌱 I'm currently learning
 
-- NEXT.js
+- Must important topics in Js
 
 ## 💼 Technical Skills
 
