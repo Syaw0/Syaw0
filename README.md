@@ -19,11 +19,11 @@ I love the entire process of developing creative websites. I love the Linux and 
 
 ## 🔭 I'm currently working on
 
-- shiny project
+- OnCurrancy
 
 ## 🌱 I'm currently learning
 
-- Must important topics in Js
+- improve my skills in frontend
 
 ## 💼 Technical Skills
 
