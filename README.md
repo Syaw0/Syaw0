@@ -19,7 +19,7 @@ I love the entire process of developing creative websites. I love the Linux and 
 
 ## 🔭 I'm currently working on
 
-- OnCurrancy
+- Gamma Ui
 
 ## 🌱 I'm currently learning
 
